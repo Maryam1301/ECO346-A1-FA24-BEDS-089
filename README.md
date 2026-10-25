@@ -9,16 +9,16 @@ Sample: persons aged 15-64 with `earn_annual` > 0 (earners). All statistics weig
 ## How to reproduce
 From the repository root, with no internet needed:
 
-    Rscript scripts/01_default.R
-    Rscript scripts/02_distribution.R
-    Rscript scripts/03_relationship.R
-    python scripts/04_second_language.py
+    Rscript script/01_default.R
+    Rscript script/02_distribution.R
+    Rscript script/03_relationship.R
+    python script/04_second_language.py
 
 ## Figures
-- Default: `figures/default.svg`
-- Distribution (Q2): `figures/distribution.svg`
-- Relationship (Q3, the redesign): `figures/relationship.svg`
-- Python version (Q5): `figures/relationship_python.svg`
+- Default: `figure/default.svg`
+- Distribution (Q2): `figure/distribution.svg`
+- Relationship (Q3, the redesign): `figure/relationship.svg`
+- Python version (Q5): `figure/relationship_python.svg`
 
 ## Band table (weighted mean annual earnings)
 | Band | Earners | Weighted mean (Rs) |
