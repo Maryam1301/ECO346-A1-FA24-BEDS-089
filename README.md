@@ -37,4 +37,4 @@ From the repository root, with no internet needed:
 No band has fewer than 30 earners, so no marker is hollow.
 
 ## Interpretation
-(Paste your own final answers here, in your own words.)
+
